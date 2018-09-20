@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小熊🐻</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-09-18T15:29:26.649Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>bear.jia</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇博客</title>
+    <link href="http://yoursite.com/2018/09/18/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2018/09/18/第一篇博客/</id>
+    <published>2018-09-18T15:21:53.000Z</published>
+    <updated>2018-09-18T15:29:26.649Z</updated>
+    
+    <content type="html"><![CDATA[<p>工作这些年以来，想想自己总是很皮，对于技术没有一个总结，总是当下用过之后，可能两周之后就不记得那些个原理那些个使用方式了。所以我决定自己也实现一个自己的博客梦，虽然有问题多半还得借助于csdn与博客园，但是我想的是有一个自己的博客遇到问题，如何解决，自己做一个回顾和总结，让自己能够记忆深刻一些。<br>这是第一篇不算技术的文章吧，博客采用了github的服务器，还有很多很多需要我不断更新配置并且添加维护，只能说希望自己自律一些，将这个事情做下去！<br>加油，贾小胖</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;工作这些年以来，想想自己总是很皮，对于技术没有一个总结，总是当下用过之后，可能两周之后就不记得那些个原理那些个使用方式了。所以我决定自己也实现一个自己的博客梦，虽然有问题多半还得借助于csdn与博客园，但是我想的是有一个自己的博客遇到问题，如何解决，自己做一个回顾和总结，让
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="杂谈" scheme="http://yoursite.com/tags/%E6%9D%82%E8%B0%88/"/>
+    
+      <category term="技术贴" scheme="http://yoursite.com/tags/%E6%8A%80%E6%9C%AF%E8%B4%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/09/18/hello-world/"/>
+    <id>http://yoursite.com/2018/09/18/hello-world/</id>
+    <published>2018-09-18T14:03:00.000Z</published>
+    <updated>2018-09-18T14:10:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+      <category term="杂文" scheme="http://yoursite.com/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+      <category term="尝试新事物" scheme="http://yoursite.com/tags/%E5%B0%9D%E8%AF%95%E6%96%B0%E4%BA%8B%E7%89%A9/"/>
+    
+  </entry>
+  
+</feed>
